@@ -1,0 +1,6 @@
+{
+  "name": "CBT Ujian",
+  "description": "Aplikasi CBT Ujian Online terlengkap dengan timer countdown, navigasi nomor soal, ragu-ragu, anti-curang, analisis nilai, dan pembahasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
